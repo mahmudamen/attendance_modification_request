@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_attendance_modification_manager,attendance_modification_request_manager,model_attendance_modification_request,hr.group_hr_manager,1,1,1,1
+access_hr_rejected_manager,hr_rejected,model_hr_rejected,hr.group_hr_manager,1,1,1,1
+access_attendance_modification_user,attendance_modification_request_user,model_attendance_modification_request,hr.group_hr_user,1,1,1,1
+access_hr_rejected_user,hr_rejected,model_hr_rejected,hr.group_hr_user,1,1,1,1
